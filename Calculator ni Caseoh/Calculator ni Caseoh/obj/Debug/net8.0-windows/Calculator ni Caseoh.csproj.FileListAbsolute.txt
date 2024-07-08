@@ -1,0 +1,20 @@
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\bin\Debug\net8.0-windows\Calculator ni Caseoh.exe
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\bin\Debug\net8.0-windows\Calculator ni Caseoh.deps.json
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\bin\Debug\net8.0-windows\Calculator ni Caseoh.runtimeconfig.json
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\bin\Debug\net8.0-windows\Calculator ni Caseoh.dll
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\bin\Debug\net8.0-windows\Calculator ni Caseoh.pdb
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator_ni_Caseoh.Form1.resources
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.csproj.GenerateResource.cache
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.AssemblyInfoInputs.cache
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.AssemblyInfo.cs
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.csproj.CoreCompileInputs.cache
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.dll
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\refint\Calculator ni Caseoh.dll
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.pdb
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.genruntimeconfig.cache
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\ref\Calculator ni Caseoh.dll
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator_ni_Caseoh.Properties.Resources.resources
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\bin\Debug\net8.0-windows\NCalc.dll
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculator ni Caseoh.csproj.AssemblyReference.cache
+C:\Users\novakami\source\repos\Calculator ni Caseoh\Calculator ni Caseoh\obj\Debug\net8.0-windows\Calculat.5A6038A6.Up2Date
