@@ -172,7 +172,7 @@ namespace Calculator_ni_Caseoh
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Members: Sevilla, Ranchez, Palec, Dio, Gutay, Bordeos, Apeta");
+            MessageBox.Show("What up.");
         }
 
 
