@@ -120,10 +120,8 @@ namespace Calculator_ni_Caseoh
 
         private void btnEquals_Click(object sender, EventArgs e)
         {
-            // Split the text to extract the numbers and the operator
             string[] parts = txtTotal.Text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
-            // Ensure we have exactly 3 parts: num1, operator, num2
+            
             if (parts.Length == 3)
             {
                 try
