@@ -1,0 +1,7 @@
+C:\Users\novakami\Downloads\calculator\Calculator.pdb
+C:\Users\novakami\Downloads\calculator\D3DCompiler_47_cor3.dll
+C:\Users\novakami\Downloads\calculator\PenImc_cor3.dll
+C:\Users\novakami\Downloads\calculator\PresentationNative_cor3.dll
+C:\Users\novakami\Downloads\calculator\vcruntime140_cor3.dll
+C:\Users\novakami\Downloads\calculator\wpfgfx_cor3.dll
+C:\Users\novakami\Downloads\calculator\Calculator.exe
